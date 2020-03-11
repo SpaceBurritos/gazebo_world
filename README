@@ -1,0 +1,11 @@
+Some of the models used where obtained from other places than my own creation
+
+Sofa obtained from:
+https://grabcad.com/library/sofa-119
+By Romankovskii
+
+I tried adding other objects such as a bed or a toilet, but the models disappeared as soon as I exit the Model Editor
+
+I created a different vacuum_robot outside of gazebo but when I imported it the object only contained one link, so I preferred to make another vacuum robot inside of gazebo but a little bit more simple
+----------------------------------------------------------------
+I decided to make the apartment that I will be moving in, and make a simplistic copy of one the vacuum robots that are in my house
